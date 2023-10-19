@@ -1,1 +1,1 @@
-scp -r ./output/* root@aws.pay1all.top:/var/www/html_s/                                   
+scp -r ./output/* admin@pay1all.top:~/www/pay1all/                                   
